@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  '/goit-react-hw-02-feedback/precache-manifest.560e2df25a68e21d23ec961748c9b442.js',
+  '/goit-react-hw-02-feedback/precache-manifest.3a807319a90be5e7462c5c36e06815cd.js',
 );
 
 self.addEventListener('message', event => {
